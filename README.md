@@ -32,4 +32,5 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
 ## Contact to me!
+#### 클릭 시 오픈채팅방으로 이동됩니다! if you click this, we can talk!
 <a href="https://open.kakao.com/o/sAQQPame">![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00.svg?&style=for-the-badge&logo=KakaoTalk&logoColor=white)</a>
