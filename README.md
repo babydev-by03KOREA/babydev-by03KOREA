@@ -1,8 +1,10 @@
-# hyeongju Park 👨‍💻
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=HyeongjuPARK%20👨‍💻&fontSize=90)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbabydev-by03KOREA&count_bg=%23364E98&title_bg=%234DB289&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babydev-by03KOREA)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babydev-by03KOREA&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babydev-by03KOREA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Platforms & Languages <br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
@@ -15,7 +17,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white)
 
-## Develope Tools <br/>
+## 🛠 Develope Tools 🛠<br/>
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Intellij IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?&style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white)
 ![DataGrip](https://img.shields.io/badge/DataGrip-000000.svg?&style=for-the-badge&logo=DataGrip&logoColor=white)
