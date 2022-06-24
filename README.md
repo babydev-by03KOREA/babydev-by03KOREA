@@ -9,6 +9,7 @@
 # Portfolio!
 포트폴리오가 완성되었습니다!<br/>
 확인하시려면 --->  https://hyeongjupark-resume.netlify.app
+⚠️ 현재 모바일 반응형 Error이 발생하였습니다. 다음주 월요일까지 수정하겠습니다. ⚠️
 
 ## Platforms & Languages <br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
