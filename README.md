@@ -11,7 +11,7 @@
 확인하시려면 --->  https://hyeongjupark-resume.netlify.app  <br/>
 ⚠️ 현재 모바일 반응형 Error이 발생하였습니다. 다음주 월요일까지 수정하겠습니다. ⚠️ <br/>
 Ver 1.1 - NavBar 모바일에서 클릭 안됨 해결 <br/>
-Ver 1.2 - HTML이 overflow 되는 에러 해결 <style> html,body{ overflow-x: hidden; } </style> <br/>
+Ver 1.2 - HTML이 overflow 되는 에러 해결 Code: <style> html,body{ overflow-x: hidden; } </style> <br/>
 
 ## Platforms & Languages <br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
