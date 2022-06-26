@@ -42,6 +42,3 @@
 ## Contact to me!
 #### 클릭 시 오픈채팅방으로 이동됩니다! if you click this, we can talk!
 <a href="https://open.kakao.com/o/sAQQPame">![KakaoTalk](https://img.shields.io/badge/KakaoTalk-FFCD00.svg?&style=for-the-badge&logo=KakaoTalk&logoColor=white)</a>
-
-## 해당 코더의 코딩 공부방법이 궁금하다면..?
-https://github.com/babydev-by03KOREA/CSS------zip
