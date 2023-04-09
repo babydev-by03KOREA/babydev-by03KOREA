@@ -9,7 +9,7 @@
 # Portfolio!
 포트폴리오가 완성되었습니다!<br/>
 확인하시려면 --->  https://hyeongjupark-resume.netlify.app  <br/>
-🥳 모바일 반응형 에러가 모두 수정되었습니다..!
+이 포트폴리오는 2022년 기준입니다.
 
 ## Platforms & Languages <br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
