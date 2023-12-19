@@ -7,7 +7,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babydev-by03KOREA&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Portfolio!
-![Portfolio 바로가기](https://hyeongju.oopy.io/)
+https://hyeongju.oopy.io/
 
 ## Platforms & Languages <br/>
 ![Java](https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white)
